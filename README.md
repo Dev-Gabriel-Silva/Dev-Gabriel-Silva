@@ -4,7 +4,7 @@ Olá! Prazer em te conhecer, me chamo Gabriel, um desenvolvedor front-end apaixo
 - Encontrar uma oportunidade como desenvolvedor e me envolver em projetos desafiadores.
 
 **Interesses:**  
-- Games de luta  
+- Jogos
 - Música  
 - Animes  
 - Desenhos  

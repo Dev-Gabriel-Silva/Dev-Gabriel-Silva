@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Dev-Gabriel-Silva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Olá! Prazer em te conhecer, me chamo Gabriel, um desenvolvedor front-end apaixonado por criar experiências web incríveis com **Next.js** e **TailWind.css**. Formado em **Front-End** pela Trybe. Nos meus momentos livres, me aprofundo em meus hobbies. Atualmente fascinado em aprender como jogos de luta funcionam.
 
-<!---
-Dev-Gabriel-Silva/Dev-Gabriel-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Meu objetivo Atual**  
+- Encontrar uma oportunidade como desenvolvedor e me envolver em projetos desafiadores.
+
+**Interesses:**  
+- Games de luta  
+- Música  
+- Animes  
+- Desenhos  
+- Filmes e Séries
+- Competições

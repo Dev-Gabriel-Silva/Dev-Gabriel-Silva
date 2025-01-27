@@ -2,6 +2,7 @@ Oi! Sou o Gabriel! Desenvolvedor formado em **Front-End** pela Trybe. Atualmente
 
 **Meu objetivo Atual**  
 - Desenvolver o máximo de projetos com ferramentas variadas para aperfeiçoar minhas skills e enriquecer meu portifólio!
+
 **tecnologias**
   - css
   - html

@@ -1,7 +1,13 @@
-Olá! Prazer em te conhecer, me chamo Gabriel, um desenvolvedor front-end formado em **Front-End** pela Trybe. Nos meus momentos livres, me aprofundo em meus hobbies. Atualmente tentando achar uma opotunidade de carreira.
+Oi! Sou o Gabriel! Desenvolvedor formado em **Front-End** pela Trybe. Atualmente estou em busca de uma **oportunidade de Carreira**
 
 **Meu objetivo Atual**  
-- Encontrar uma oportunidade como desenvolvedor e me envolver em projetos desafiadores.
+- Desenvolver o máximo de projetos com ferramentas variadas para aperfeiçoar minhas skills e enriquecer meu portifólio!
+**tecnologias**
+  - css
+  - html
+  - Javascript
+  - react
+  - testes
 
 **Interesses:**  
 - Jogos

@@ -1,4 +1,4 @@
-Oi! Sou o Gabriel! Desenvolvedor formado em **Front-End** pela Trybe. Atualmente estou em busca de uma **oportunidade de Carreira**
+Oi! Sou o Gabriel! Desenvolvedor formado em **Front-End** pela Trybe. Atualmente estou em busca de uma **oportunidade de Carreira**.
 
 **Meu objetivo Atual**  
 - Desenvolver o máximo de projetos com ferramentas variadas para aperfeiçoar minhas skills e enriquecer meu portifólio!

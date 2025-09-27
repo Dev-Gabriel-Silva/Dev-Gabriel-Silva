@@ -1,19 +1,9 @@
-Oi! Sou o Gabriel! Desenvolvedor formado em **Front-End** pela Trybe. Atualmente estou em busca de uma **oportunidade de Carreira**.
-
-**Meu objetivo Atual**  
-- Desenvolver o máximo de projetos com ferramentas variadas para aperfeiçoar minhas skills e enriquecer meu portifólio!
+Oi! Sou o Gabriel! Desenvolvedor formado web. Atualmente estou em busca de uma **oportunidade de Carreira**.
 
 **tecnologias**
-  - css
-  - html
-  - Javascript
-  - react
-  - testes
+  - HTML, CSS, JavaScript
+  - Frameworks: React, Next.js, Tailwind CSS
+  - Testes: Jest, Vitest
 
-**Interesses:**  
-- Jogos
-- Música  
-- Animes  
-- Desenhos  
-- Filmes e Séries
-- Competições
+Também tenho noções de escalabilidade: como responsividade pensando no mobile primeiro, testes unitários para garantir confiabilidade. Noções sobre protocolos TCP/IP, DNS, HTTPS
+

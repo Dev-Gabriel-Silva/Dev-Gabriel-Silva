@@ -1,8 +1,2 @@
-Desenvolvedor web, tualmente estou em busca de uma **oportunidade de Carreira**.
-
-**tecnologias**
-  - HTML, CSS, JavaScript
-  - Frameworks: React, Next.js, Tailwind CSS
-  - Testes: Jest, Vitest
-Escalabilidade e experiência do úsuario: Mobile primeiro, testes unitários para garantir confiabilidade. Noções sobre as camadas da internet.
+Desenvolvedor web: [linkedin](https://www.linkedin.com/in/gabriel-da-silva-796085299/)
 

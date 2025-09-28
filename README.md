@@ -1,4 +1,4 @@
-Oi! Sou o Gabriel! Desenvolvedor formado web. Atualmente estou em busca de uma **oportunidade de Carreira**.
+Desenvolvedor web, tualmente estou em busca de uma **oportunidade de Carreira**.
 
 **tecnologias**
   - HTML, CSS, JavaScript

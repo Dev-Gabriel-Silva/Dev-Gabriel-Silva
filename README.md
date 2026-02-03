@@ -1,13 +1,15 @@
-Desenvolvedor web: [linkedin](https://www.linkedin.com/in/gabriel-da-silva-796085299/)
+Olá, me chamo Gabriel, me formei no primeiro periódo de Desenvolvimento web na Trybe. Atualmente estou a procura de emprego como desenvolvedor front end.
 
-Experiências e habilidades:
-- HTML, CSS, JavaScript
-- Git
-- React
-- Next.js
-- Tailwind
-- Testes únitarios
-- Design Responsivo
-- Soft Skills
-- Noção sobre metódologia ágil
-- NPM
+Habilidades Técnicas
+
+- Linguagens: HTML5, CSS3, JavaScript (ES6+), TypeScript
+
+- Frameworks & Bibliotecas: React, Next.js
+
+- Estilização: CSS Modules, Styled Components, Tailwind CSS, Sass
+
+- Ferramentas: Git, GitHub, Figma, Vite, Webpack, slack, Zoom, Discord, Trello
+
+- Boas práticas: Componentização, Responsividade, Acessibilidade (WCAG), Clean Code
+
+- Testes: Jest, Testing Library, Cypress
